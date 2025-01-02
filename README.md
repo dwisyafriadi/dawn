@@ -3,4 +3,6 @@
     username = "CHANGE YOUR EMAIL"  # Replace with the actual username
     extension_id = "CHANGE YOUR EXTENSION ID"  # Replace with the actual extension ID
 
-    Join telegram Join for more bot on https://t.me/dasarpemulung
+## Join telegram channel
+    Join telegram Join for more bot on 
+[Join Telegram Channel](https://t.me/dasarpemulung)
